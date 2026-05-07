@@ -1,5 +1,5 @@
 ## 我的 trime 配置
-适用于`3.3.10`
+适用于 trime `3.3.10`
 
 `td.classic.trime.yaml`基于[classic.trime.yaml](https://github.com/chwt163/mytrime/blob/main/3.3.10/classic.trime.yaml)修改而来
 
