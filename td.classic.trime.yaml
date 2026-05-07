@@ -878,7 +878,7 @@ preset_keyboards:
       
       # 第四行
       - {click: Keyboard_last_lock, long_click: '', key_text_size: "20", key_symbol_offset_x: 17, key_back_color: bgn, key_text_color: 'th1', key_border: 0, width: 20}
-      - {click: liquid_keyboard_ascii1, key_back_color: bgn, key_text_size: "18",key_text_color: th1, key_border: 0, width: 20}
+      - {click: td_change_keyboard_symbol, key_back_color: bgn, key_text_size: "18",key_text_color: th1, key_border: 0, width: 20}
       - {click: 0, long_click: select_all, symbol_text_size: 9, key_symbol_offset_x: 17, key_symbol_offset_y: 3, key_text_color: th1, width: 20}
       - {click: ., long_click: ':', key_back_color: bgn, key_text_color: th1, key_border: 0, width: 20}
       - {click: Return, long_click: , key_text_size: "20", key_symbol_offset_x: 17, key_back_color: benter, key_text_color: tenter, key_border: 0, width: 20}
