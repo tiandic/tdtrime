@@ -3867,7 +3867,7 @@ preset_keyboards:
       - {click: td_change_keyboard_symbol, width: 15, key_text_size: "15", hilited_key_back_color: benter, key_back_color: c8, key_text_color: th1, key_border: 0}
       - {click: "‘ ’{Left}"}
       - {click: '“ ”{Left}'}
-      - {click: '《》{Left}'}
+      - {click: '<>{Left}'}
       - {click: '——'}
       - {click: '：'}
       - {click: '；'}
