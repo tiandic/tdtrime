@@ -661,7 +661,7 @@ preset_keyboards:
       - {click: h, popup: ["/", "h-p", "H-p"], label_symbol: '/', swipe_down: "/", key_back_color: bh2, key_text_color: th2}
       - {click: j, popup: ["#", "j-p", "J-p"], label_symbol: '#', swipe_down: '#', key_back_color: bh2, key_text_color: th2}
       - {click: k, popup: ["(", "k-p", "K-p"], label_symbol: '(', swipe_down: "(", key_back_color: bh2, key_text_color: th2}
-      - {click: l, popup: ['(', "l-p", "L-p"], label_symbol: '(', swipe_down: '(', key_back_color: bh2, key_text_color: th2}
+      - {click: l, popup: [')', "l-p", "L-p"], label_symbol: ')', swipe_down: ')', key_back_color: bh2, key_text_color: th2}
       - {width: 5, key_back_color: bh2, key_text_color: th2}
     #  第三行
       - {click: Shift_L, 
