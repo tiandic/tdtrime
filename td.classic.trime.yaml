@@ -1711,16 +1711,16 @@ preset_keyboards:
       - {click: '9'}
       - {click: '0'}
       # 第二行
-      - {width: 5}
-      - {click: '^'}
       - {click: '`'}
       - {click: '@'}
       - {click: '#'}
       - {click: '$'}
-      - {click: '*'}
+      - {click: '%'}
+      - {click: '^'}
       - {click: '&'}
-      - {click: "(){Left}"}
-      - {click: '\'}
+      - {click: "*"}
+      - {click: '('}
+      - {click: ')'}
       # 第三行
       - {click: td_change_keyboard_symbol2, width: 15, key_text_size: "20", hilited_key_back_color: benter, key_back_color: c8, key_text_color: th1, key_border: 0}
       - {click: "'"}
