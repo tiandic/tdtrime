@@ -688,7 +688,7 @@ preset_keyboards:
       - {click: Keyboard_number, composing: '', long_click: , label_symbol: ' ', swipe_up: '', key_text_size: "18", key_symbol_offset_y: -4, symbol_text_size: 14, key_back_color: c4, key_text_color: tenter, key_border: 0}
       - {click: ',', label: ',', long_click: '!', popup: ["!", "Theme_settings"], swipe_up: '!', swipe_right: 'Theme_settings', key_back_color: bh4, key_text_color: th4}
       - {click: space, ascii: space3, long_click: , swipe_up: '', width: 30, key_text_size: "10", symbol_text_size: 9, key_symbol_offset_x: 35, key_back_color: bkg, key_text_color: th1}
-      - {click: '.', label: '?', long_click: '?', popup: ["?", "Keyboard_func", "Color_switch"], swipe_up: '?', swipe_left: 'Color_switch', swipe_right: '', key_back_color: bh4, key_text_color: th4}
+      - {click: '.', label: '.', long_click: '?', popup: ["?", "Keyboard_func", "Color_switch"], swipe_up: '?', swipe_left: 'Color_switch', swipe_right: '', key_back_color: bh4, key_text_color: th4}
       - {click: 'Mode_switch1', long_click:  , composing: Escape1, key_text_size: "14", key_back_color: c5, key_text_color: th4, key_border: 0}
       - {click: Return, composing: , long_click: , swipe_up: Escape, width: 15, key_text_size: "18", key_back_color: benter, key_text_color: tenter, key_border: 0}
 
